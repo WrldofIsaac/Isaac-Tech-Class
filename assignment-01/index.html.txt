@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Top 5 Favorite Cars</title>
+</head>
+<body>
+<header> 
+    <h1> My Top 5 Favorite Cars</h1>
+<p> List of my favorite cars of all time and why.</p>
+</header>
+
+<main>
+    <ol>
+        <li>
+            <h2>1. 2015 Corvette Z06</h2>
+            <p>The LT engine that was put in it sounds nice and can handle boost pretty well.</p>
+        </li>
+        <li>
+            <h2>2. Ford GT</h2>
+            <p>Just an old classic that looks pretty, sounds good and is fast. It is also cost heavy.</p>
+        </li>
+        <li>
+            <h2>3. Mustang Gt500</h2>
+            <p>One of my favorite american muscle cars that sound nice, fast and fun to ride in.</p>
+        </li>
+        <li>
+            <h2>4. 2020 and more F350</h2>
+            <p>I love diesel trucks and on top of that I love the sound of a 6.7 Powerstroke. Plus I'm able to haul all these cars if I were to obtain them.</p>
+        </li>
+        <li>
+            <h2>5. Any 2nd gen cummins truck</h2>
+            <p>The 2nd gen cummins sounds amazing but also is a reliable engine aswell.</p>
+        </li>
+    </ol>
+</main>
+
+            <footer>
+                <p>Created by Isaac Ihebom &copy; 2025</p>
+            </footer>
+        </body>
+        </html>
